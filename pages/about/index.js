@@ -112,12 +112,8 @@ const About = () => {
             exit="hidden"
             className="max-w-[500px] mx-auto xl:mx-0 mb-6 xl:mb-12 px-2 xl:px-0"
           >
-            I am Setiaji Alif Nugroho, Bachelor of Information Engineering from
-            Gunadarma University. The last activity currently is being active as
-            a job seeker and during college I did this several times
-            intermediate level programming language and design skills that I can
-            develop because I can learn them quickly. I have an interest in
-            becoming a programmer or designer to learn various new things.
+            My name is Setiaji Alif Nugroho. I am a graduate with a Bachelor's degree in Informatics Engineering from Gunadarma University. I am currently actively seeking employment.
+During my time in college, I developed my skills in programming and design at an intermediate level and can learn quickly. I have a strong interest in becoming a programmer or designer, and I am enthusiastic about learning new things in this field.
           </motion.p>
         </div>
         <motion.div
