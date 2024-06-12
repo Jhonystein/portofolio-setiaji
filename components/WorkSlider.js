@@ -23,7 +23,7 @@ const workSlides = {
         {
           title: 'Flutter',
           path: '/pro3.png',
-          githubLink: 'https://github.com/Jhonystein/Cuaca.git', // Tautan ke repositori GitHub proyek kedua
+          githubLink: 'https://github.com/Jhonystein/Cuaca.git', // Tautan ke repositori GitHub proyek ketiga
         },
       ],
     },
