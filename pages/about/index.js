@@ -95,16 +95,16 @@ const About = () => {
     
       <div className="container mx-auto h-full flex flex-col items-center xl:flex-row gap-x-6" style={{ overflowY: 'auto' }}>
         <div className="flex-1 flex flex-col justify-center">
-          <motion.h2
+          <motion.h3
             variants={fadein("right", 0.2)}
             initial="hidden"
             animate="show"
             exit="hidden"
-            className="h2"
+            className="h3"
           >
             Captivating <span className="text-accent">stories</span> birth
             magnificent design.
-          </motion.h2>
+          </motion.h3>
           <motion.p
             variants={fadein("right", 0.4)}
             initial="hidden"
