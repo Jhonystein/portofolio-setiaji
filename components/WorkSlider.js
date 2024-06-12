@@ -16,9 +16,14 @@ const workSlides = {
           githubLink: 'https://github.com/Jhonystein/unity-flappybird.git', // Tautan ke repositori GitHub proyek pertama
         },
         {
-          title: 'AndroidStudio-Kotlin',
+          title: 'Kotlin',
           path: '/pro2.png',
           githubLink: 'https://github.com/Jhonystein/androidstudio-kotlin-pemesananprewedding.git', // Tautan ke repositori GitHub proyek kedua
+        },
+        {
+          title: 'Flutter',
+          path: '/pro3.png',
+          githubLink: 'https://github.com/Jhonystein/Cuaca.git', // Tautan ke repositori GitHub proyek kedua
         },
       ],
     },
