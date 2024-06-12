@@ -25,6 +25,11 @@ const workSlides = {
           path: '/pro3.png',
           githubLink: 'https://github.com/Jhonystein/Cuaca.git', // Tautan ke repositori GitHub proyek ketiga
         },
+        {
+          title: 'Nextjs',
+          path: '/pro4.png',
+          githubLink: 'https://jhonystein.vercel.app/', // Tautan ke repositori GitHub proyek keempat
+        },
       ],
     },
   ],
