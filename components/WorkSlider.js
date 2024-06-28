@@ -30,6 +30,16 @@ const workSlides = {
           path: '/pro4.png',
           githubLink: 'https://jhonystein.vercel.app/', // Tautan ke repositori GitHub proyek keempat
         },
+        {
+          title: 'Jajanan-Nextjs14',
+          path: '/jajanan.png',
+          githubLink: 'https://jajanan-store.vercel.app/', // Tautan ke repositori GitHub proyek kelima
+        },
+        {
+          title: 'Admin-Nextjs14',
+          path: '/admin.png',
+          githubLink: 'https://jajanan-admin.vercel.app/', // Tautan ke repositori GitHub proyek keenam
+        },
       ],
     },
   ],
