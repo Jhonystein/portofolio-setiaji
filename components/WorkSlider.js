@@ -11,7 +11,7 @@ const workSlides = {
     {
       images: [
         {
-          title: 'Unity',
+          title: 'FlappyBird-Unity',
           path: '/pro1.png',
           githubLink: 'https://github.com/Jhonystein/unity-flappybird.git', // Tautan ke repositori GitHub proyek pertama
         },
@@ -21,12 +21,12 @@ const workSlides = {
           githubLink: 'https://github.com/Jhonystein/androidstudio-kotlin-pemesananprewedding.git', // Tautan ke repositori GitHub proyek kedua
         },
         {
-          title: 'Flutter',
+          title: 'Flutter-Cuaca',
           path: '/pro3.png',
           githubLink: 'https://github.com/Jhonystein/Cuaca.git', // Tautan ke repositori GitHub proyek ketiga
         },
         {
-          title: 'Nextjs',
+          title: 'Portofolio-Nextjs',
           path: '/pro4.png',
           githubLink: 'https://jhonystein.vercel.app/', // Tautan ke repositori GitHub proyek keempat
         },
@@ -73,10 +73,6 @@ const WorkSlider = () => {
                         <div className='flex items-center gap-x-2 text-[13px] tracking-[0.2em]'>
                           {/* Bagian judul 1 */}
                           <div className='delay-100'>{image.title}</div>
-                          {/* Bagian judul 2 */}
-                          <div className='translate-y-[500%] group-hover:translate-y-0 transition-all duration-300 delay-150'>
-                            PROJECT
-                          </div>
                           {/* Ikon */}
                           <div className='text-xl translate-y-[500%] group-hover:translate-y-0 transition-all duration-300 delay-200'>
                             <BsArrowRight />
